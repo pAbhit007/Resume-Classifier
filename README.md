@@ -17,7 +17,11 @@ The model's performance is evaluated using a range of metrics, including accurac
 
 ### Confusion Matrix:
 The confusion matrix is a critical evaluation tool in classification tasks, providing a detailed breakdown of the model's predictions.
+
 •	True Positives (TP) represent instances correctly classified as positive, indicating the model's ability to accurately identify relevant features.
+
 •	True Negatives (TN) are instances correctly classified as negative, showcasing the model's proficiency in discerning non-relevant elements. 
-•	False Positives (FP) occur when the model incorrectly classifies a negative instance as positive, emphasizing potential areas of improvement in precision. 
+
+•	False Positives (FP) occur when the model incorrectly classifies a negative instance as positive, emphasizing potential areas of improvement in precision.
+
 •	False Negatives (FN) signify negative instances misclassified as positive, highlighting potential enhancements in recall
